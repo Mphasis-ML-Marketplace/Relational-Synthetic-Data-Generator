@@ -9,8 +9,6 @@ The solution generates tabular synthetic data for a dataset of maximum two table
 * This solution can be repurposed for scenarios such as reducing data imbalance or supplementing in case of unavailability or sparsity of data. 
 * Mphasis Synth Studio is an Enterprise Synthetic Data Platform for generating high-quality synthetic data that can help derive and monetize trustworthy business insights while preserving privacy and protecting data subjects. Build reliable and high-accuracy models when you have no or low data. 
 
-Need customized Machine Learning and Deep Learning solutions? Get in touch!
-
 ## Amazon Marketplace Link
 The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-xfentzfe7vekc)
 
